@@ -2,7 +2,6 @@
 
 Successfully Done with the Task 2 as a "Data Science Intern" at "Prodigy Infotech".
 
-
 Description of the Task : World_Population 
 
 The "World_Population" is a real-time Data Analysis Project.
